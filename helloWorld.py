@@ -1,2 +1,3 @@
-print("Hello my name is Derek Boyle")
+# This is Version 1 of my hello world program
+print("Hello my name is Derek") 
 
